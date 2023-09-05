@@ -1,0 +1,15 @@
+html {
+    min-height: 100%;
+    margin:0;
+    }
+body {
+    height: 100%;
+    margin:0;
+    background-color: cornflowerblue; /* For browsers that do not support gradients */
+    background-image: linear-gradient(purple 30%, mediumblue);
+    text-align:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:whitesmoke;
+    font: x-large "Comic Sans MS", cursive, sans-serif;
+    }
